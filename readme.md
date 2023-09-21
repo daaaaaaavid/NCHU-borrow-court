@@ -10,4 +10,5 @@ Install  tesseract OCR
 
 
 # Demo
+<video src="https://youtu.be/zcn6z-nweHo">
 {%youtube zcn6z-nweHo %}
