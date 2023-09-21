@@ -10,4 +10,4 @@ Install  tesseract OCR
 
 
 # Demo
-{%youtube zcn6z-nweHo%}
+{%youtube zcn6z-nweHo %}
