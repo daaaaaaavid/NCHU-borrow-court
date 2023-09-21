@@ -12,7 +12,7 @@ Make sure you have a account in [NCHU Physical Education Center](https://rent.pe
 4. Write a .bat file and schedule batch file with windows task scheduler
 
 >@echo off  
->"Path where your Python exe is stored\python.exe" "Path where your Python script is stored\script name.py"  
+>"Path where your Python exe is stored\python.exe" "Path where your Python script is stored\main.py"  
 >pause  
 
 
