@@ -8,6 +8,7 @@ Install  tesseract OCR
 
 
 
+![](https://hackmd.io/favicon.png) 
 
 # Demo
 <video src="https://youtu.be/zcn6z-nweHo"></video>
